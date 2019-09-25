@@ -10,13 +10,11 @@ Some picture demos of our platform are shown as below:
 ![image](https://github.com/Arella1101/Personal-online-scheduler/raw/master/user_interface_images/image1.png)
 
 ##### initial window after logging in 
-![image](https://github.com/Arella1101/Personal-online-scheduler/raw/master/user_interface_images/image1.png)
+![image](https://github.com/Arella1101/Personal-online-scheduler/raw/master/user_interface_images/image2.png)
 
-##### schedule in days
-![image](https://github.com/Arella1101/Personal-online-scheduler/raw/master/user_interface_images/image1.png)
+##### schedule in view of days, months, years
+![image](https://github.com/Arella1101/Personal-online-scheduler/raw/master/user_interface_images/image3.png)
 
-##### schedule in month
-![image](https://github.com/Arella1101/Personal-online-scheduler/raw/master/user_interface_images/image1.png)
+![image](https://github.com/Arella1101/Personal-online-scheduler/raw/master/user_interface_images/image4.png)
 
-##### schedule in year
-![image](https://github.com/Arella1101/Personal-online-scheduler/raw/master/user_interface_images/image1.png)
+![image](https://github.com/Arella1101/Personal-online-scheduler/raw/master/user_interface_images/image5.png)
