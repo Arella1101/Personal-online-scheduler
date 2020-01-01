@@ -1,7 +1,7 @@
 # Personal-online-scheduler
 
-This is a small group project of personal online scheduler, designed for individuals to manage their work and study. 
-The environment and tool we use are: Pycharm 、 Mysql 、 Django
+This is a small project of personal online scheduler, designed for individuals to manage their work and study. 
+The environment and tools are: Pycharm 、 Mysql 、 Django
 The scheduler is based on the website. The user logs in the website and can check、add or delete their schedule.
 
 Some picture demos of our platform are shown as below:
